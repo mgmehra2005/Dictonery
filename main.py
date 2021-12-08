@@ -1,6 +1,5 @@
 #Dictonery
 from __dic__ import data
-# l = data
 
 print("""
         .........................   .................
