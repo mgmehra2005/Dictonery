@@ -1,12 +1,8 @@
 <h1><b>Dictonery</b></h1>
-</kdb>
-<kdb>cd Dictonery</kdb>
-<details>
-<summary>Downloads</summary>
-<h2>For Windows, Mac Or Linux:</h2>
+<br>
+<h2>Downloads</h2>
+<h3>For Windows, Mac Or Linux:</h3>
    
-   <span>Copy Commands</span>
-   <kdb>git clone https://github.com/mgmehra2005/Dictonery.git</kdb>
-   <kdb>cd Dictonery</kdb>
-    
-</details>
+Copy Commands
+      git clone https://github.com/mgmehra2005/Dictonery.git
+      cd Dictonery
