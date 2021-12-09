@@ -1,5 +1,4 @@
 <h1><b>Dictonery</b></h1>
-<br>
 <h2>Downloads</h2>
 <h3>For Windows, Mac Or Linux:</h3>
    
