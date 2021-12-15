@@ -28,7 +28,10 @@ while(1):
     rd = opn.read()
     opn.close()
 
-    if ("0000" in rd):
+    if("8888" in rd):
+        for items in data:
+            print(items , " - ", data[items])
+    elif ("0000" in rd):
         exit()
     elif (take in data):
         print(f"\n Meaning : {data[take]}")
